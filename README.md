@@ -12,6 +12,7 @@ session is editing this repo, a human asked it to, and a human merges the result
 
 | Path | What it is |
 |---|---|
+| [`SPEC.md`](SPEC.md) | The game spec — CLVI GAME SPEC v1.0 (2026-07-18), archived verbatim from the source document. What the five tracks build against. |
 | [`CONTRACTS.md`](CONTRACTS.md) | Contracts v1, frozen. The shared interfaces every other repo copies verbatim, plus the copying rule and the amendment procedure. |
 | [`docs/ADR/`](docs/ADR/) | The decision log. ADR-001 … ADR-006, seeded with Contracts v1. |
 | [`docs/CLVI-OVERVIEW.md`](docs/CLVI-OVERVIEW.md) | Archive slot for the original CLVI concept document. **Currently a placeholder** — the source text has not been archived yet; the file records what is known about it and how to complete it. |
